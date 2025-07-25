@@ -60,14 +60,6 @@ This dashboard offers detailed analytics of cybercrime incidents reported in Ind
 
 ---
 
-## ▶️ Demo Walkthrough
-
-🎥 Click below to watch a short preview of the interactive dashboard:
-
-**Demo Video**: [`Recording 2025-07-21 215232.mp4`](./Recording%202025-07-21%20215232.mp4)
-
----
-
 ## 📬 Author Info
 
 **Krishanmohan Kumar**  
